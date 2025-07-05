@@ -191,8 +191,9 @@ This project is [MIT licensed](LICENSE).
 ## 🙋‍♂️ Contact
 
 For queries, feedback, or collaboration:  
-[Your Name](mailto:your.email@example.com)  
-[LinkedIn](https://linkedin.com/in/your-profile)  
+[Muhammad Masood Khan](mailto:masoodkhan5933@gmail.com)  
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="HORIZONTAL" data-vanity="m-masood-k" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://pk.linkedin.com/in/m-masood-k?trk=profile-badge">Muhammad Masood Khan</a></div>
+              
 
 ---
 
