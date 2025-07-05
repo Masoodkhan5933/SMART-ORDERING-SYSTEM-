@@ -30,18 +30,51 @@ This is a modern, feature-rich food ordering app designed for university campuse
 
 ## 📸 Screenshots
 
->
-> ![User Home Screen](screenshots/HomeScreen.png)  ![User Food Selection Screen](screenshots/FoodsSelect.jpeg)
-> 
-> ![Reviews Screen](screenshots/Reviews.jpeg)
-> ![SideBar Screen](screenshots/Sidebar.jpeg)
-> ![UserOrders Screen](screenshots/userOrders.jpeg)
-> ![User Schedule Screen](screenshots/userSchedule.jpeg)
-> ![Manager AddFood Screen](screenshots/ManagerAddFood.jpeg)
-> ![Manager See Schedule Screen](screenshots/ManagerSeeSchedule.jpeg)
-> ![Manager See Statistics Screen](screenshots/ManagerSeeStats.jpeg)
+## 📸 Screenshots
 
+<div align="center">
 
+<table>
+  <tr>
+    <td align="center">
+      <img src="screenshots/HomeScreen.png" alt="User Home Screen" width="250" height="530" style="margin: 8px; border-radius: 16px; box-shadow: 0 2px 8px #ddd;">
+    </td>
+    <td align="center">
+      <img src="screenshots/FoodsSelect.jpeg" alt="User Food Selection Screen" width="250" height="530" style="margin: 8px; border-radius: 16px; box-shadow: 0 2px 8px #ddd;">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="screenshots/Reviews.jpeg" alt="Reviews Screen" width="250" height="530" style="margin: 8px; border-radius: 16px; box-shadow: 0 2px 8px #ddd;">
+    </td>
+    <td align="center">
+      <img src="screenshots/Sidebar.jpeg" alt="SideBar Screen" width="250" height="530" style="margin: 8px; border-radius: 16px; box-shadow: 0 2px 8px #ddd;">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="screenshots/userOrders.jpeg" alt="UserOrders Screen" width="250" height="530" style="margin: 8px; border-radius: 16px; box-shadow: 0 2px 8px #ddd;">
+    </td>
+    <td align="center">
+      <img src="screenshots/userSchedule.jpeg" alt="User Schedule Screen" width="250" height="530" style="margin: 8px; border-radius: 16px; box-shadow: 0 2px 8px #ddd;">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="screenshots/ManagerAddFood.jpeg" alt="Manager AddFood Screen" width="250" height="530" style="margin: 8px; border-radius: 16px; box-shadow: 0 2px 8px #ddd;">
+    </td>
+    <td align="center">
+      <img src="screenshots/ManagerSeeSchedule.jpeg" alt="Manager See Schedule Screen" width="250" height="530" style="margin: 8px; border-radius: 16px; box-shadow: 0 2px 8px #ddd;">
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <img src="screenshots/ManagerSeeStats.jpeg" alt="Manager See Statistics Screen" width="250" height="530" style="margin: 8px; border-radius: 16px; box-shadow: 0 2px 8px #ddd;">
+    </td>
+  </tr>
+</table>
+
+</div>
 ---
 
 ## 🎬 Demo Video
