@@ -31,8 +31,8 @@ This is a modern, feature-rich food ordering app designed for university campuse
 ## 📸 Screenshots
 
 >
-> ![User Home Screen](screenshots/HomeScreen.png)
-> ![User Food Selection Screen](screenshots/FoodsSelect.jpeg)
+> ![User Home Screen](screenshots/HomeScreen.png)  ![User Food Selection Screen](screenshots/FoodsSelect.jpeg)
+> 
 > ![Reviews Screen](screenshots/Reviews.jpeg)
 > ![SideBar Screen](screenshots/Sidebar.jpeg)
 > ![UserOrders Screen](screenshots/userOrders.jpeg)
