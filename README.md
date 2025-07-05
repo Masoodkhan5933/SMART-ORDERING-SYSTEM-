@@ -5,6 +5,8 @@
 [![MongoDB](https://img.shields.io/badge/Database-MongoDB-brightgreen.svg)](https://www.mongodb.com/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
+> ![Main Advertisement Image](screenshots/Blue%20Purple%20Modern%20Gradient%20Mobile%20App%20Development%20Facebook%20Cover.png)
+
 Welcome to the **Smart Ordering System for Comsats Dhaba**!  
 This is a modern, feature-rich food ordering app designed for university campuses, enabling students, faculty, and staff to place, track, and receive food orders in the most efficient and user-friendly manner.
 
@@ -28,18 +30,25 @@ This is a modern, feature-rich food ordering app designed for university campuse
 
 ## 📸 Screenshots
 
-> _Add your app screenshots here_
 >
-> ![Home Screen](sample_home_screen.png)
-> ![Order Tracking](sample_order_tracking.gif)
+> ![User Home Screen](screenshots/HomeScreen.png)
+> ![User Food Selection Screen](screenshots/FoodsSelect.jpeg)
+> ![Reviews Screen](screenshots/Reviews.jpeg)
+> ![SideBar Screen](screenshots/Sidebar.jpeg)
+> ![UserOrders Screen](screenshots/userOrders.jpeg)
+> ![User Schedule Screen](screenshots/userSchedule.jpeg)
+> ![Manager AddFood Screen](screenshots/ManagerAddFood.jpeg)
+> ![Manager See Schedule Screen](screenshots/ManagerSeeSchedule.jpeg)
+> ![Manager See Statistics Screen](screenshots/ManagerSeeStats.jpeg)
+
 
 ---
 
 ## 🎬 Demo Video
 
-> _Add a link to your demo video here_
+> 
 >
-> [Watch Demo on YouTube](https://www.youtube.com/your-demo-link)
+> [Watch Demo on YouTube](https://youtu.be/cJXcXq6g7Bw)
 
 ---
 
